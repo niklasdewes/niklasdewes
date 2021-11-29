@@ -17,7 +17,7 @@
 - Exciting Software Engineer. 
 - 2nd year of training at Telekom in the subsidiary T-Systems. 
 - Currently working on loadtest with Python.
-- 
+
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 ⭐️ From [Niklas Dewes](https://github.com/niklasdewes)
