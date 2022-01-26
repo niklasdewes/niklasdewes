@@ -13,7 +13,7 @@
 
 ## This is Niklas Dewes!
 #### Trainee IT specialist for application development 
-#### *Currently looking for Software Engineering!*
+
 - Exciting Software Engineer. 
 - 2nd year of training at Telekom in the subsidiary T-Systems. 
 - Currently working on loadtest with Python.
